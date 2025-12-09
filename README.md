@@ -6,7 +6,7 @@ Welcome to my GitHub! I’m a Computer Science PhD (KAUST, 2017) with a speciali
 
 After taking some time away for family and international relocation, I am now rebuilding my AI research portfolio and refreshing my technical skills.
 
-🔍 Research Interests
+##🔍 Research Interests
 
 Generative AI / LLMs
 

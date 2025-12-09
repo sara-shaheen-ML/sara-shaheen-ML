@@ -1,5 +1,5 @@
 ## Hi there 👋
-🌟 Dr. Sara Shaheen
+## 🌟 Dr. Sara Shaheen
 
 AI Researcher • Data Scientist • Educator
 

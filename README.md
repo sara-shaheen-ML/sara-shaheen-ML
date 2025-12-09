@@ -1,6 +1,6 @@
  ## 🌟 Dr. Sara Shaheen 
 
-# AI Researcher • Data Scientist • Educator
+## AI Researcher • Data Scientist • Educator
 
 Welcome to my GitHub! I’m a Computer Science PhD (KAUST, 2017) with a specialization in Artificial Intelligence and Computer Vision. I previously served as an Assistant Professor at Prince Sultan University (Saudi Arabia) and Sheridan College (Canada), where I taught Machine Learning, Data Structures, Algorithms, and AI.
 

@@ -5,18 +5,25 @@ AI Researcher • Data Scientist • Educator
 Welcome to my GitHub! I’m a Computer Science PhD (KAUST, 2017) with a specialization in Artificial Intelligence and Computer Vision. I previously served as an Assistant Professor at Prince Sultan University (Saudi Arabia) and Sheridan College (Canada), where I taught Machine Learning, Data Structures, Algorithms, and AI.
 
 After taking some time away for family and international relocation, I am now rebuilding my AI research portfolio and refreshing my technical skills.
+
 🔍 Research Interests
+
 Generative AI / LLMs
+
 Synthetic Data & Simulation
+
 Deep Learning
+
 Applied Machine Learning
+
 AI for Education
+
 Computer Vision & Eye Tracking
 
 🚀 Current Focus
 
 Completing the Udacity Generative AI Nanodegree
-Building new ML & AI mini-projects
+Building new ML & AI and data visualization mini-projects
 Developing fresh Data Structures & Algorithms teaching content
 
 💼 Professional Background
@@ -55,5 +62,4 @@ LinkedIn: https://www.linkedin.com/in/sara-shaheen
 Google Scholar: https://scholar.google.com/citations?user=pBgJOiEAAAAJ
 
 
-.
--->
+
